@@ -6,10 +6,10 @@ Here you will find lots of good ideas for floral designs suitable for special oc
 ## Weddings
 ### Barn weddings
 
-**bold**
-*italics*
+**Centerpieces**
+*Bouquets for all Collor Pallettes*
 
-1. List Item 1
+1. Blue
 2. List Item 2
 
 * Bullet 1
@@ -19,4 +19,5 @@ Here you will find lots of good ideas for floral designs suitable for special oc
 [This is a link](https://google.com)
 
 Here is an image. Don't forget some alt text for better accessibility!
+
 ![Image of GitHub's mascot Octocat](images/Octocat.png)

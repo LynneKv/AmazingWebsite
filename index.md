@@ -20,4 +20,4 @@ Here you will find lots of good ideas for floral designs suitable for special oc
 
 Here is an image. Don't forget some alt text for better accessibility!
 
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+![Image of Virginia Bluebells](Bluebells.jpg)

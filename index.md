@@ -1,9 +1,9 @@
-You can use markdown to add content to you webpage.
+Welcome to Lynne's Floral Design site.
 
-Here are some highlights of markdown syntax.
+Here you will find lots of good ideas for floral designs suitable for special occasions.
 
 # Floral Designs
-## For weddings
+## Weddings
 ### Barn weddings
 
 **bold**

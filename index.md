@@ -20,4 +20,4 @@ Here you will find lots of good ideas for floral designs suitable for special oc
 
 Here is an image. Don't forget some alt text for better accessibility!
 
-![Image of Virginia Bluebells](Bluebells.jpg)
+![Image of Virginia Bluebells](images/Bluebells.jpg)

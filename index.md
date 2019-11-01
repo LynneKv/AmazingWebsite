@@ -2,9 +2,9 @@ You can use markdown to add content to you webpage.
 
 Here are some highlights of markdown syntax.
 
-# Heading 1
-## Heading 2
-### Heading 3
+# Floral Designs
+## For weddings
+### Barn weddings
 
 **bold**
 *italics*
